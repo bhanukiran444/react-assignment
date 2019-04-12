@@ -1,7 +1,10 @@
 
-download repo
-npm install
-npm start
+download repo  
+
+npm install  
+
+npm start  
+
 
 check out in local host
 
