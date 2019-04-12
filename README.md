@@ -11,7 +11,7 @@ npm start
 
 check out in local host
 
-login credentials  
+login credentials for the app  
 
   username  :hruday@gmail.com  
   password  :hruday123
