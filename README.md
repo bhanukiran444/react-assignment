@@ -8,6 +8,7 @@ npm start
 
 check out in local host
 
-loging creds
-  "username":"hruday@gmail.com",'
-  "password" :'hruday123'
+login credentials  
+
+  username  :hruday@gmail.com  
+  password  :hruday123
